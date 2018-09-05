@@ -43,7 +43,7 @@ publish {
     userOrg = 'liujian1988'                                  //bintray.com用户名
     groupId = 'com.lj'                           //jcenter上的路径
     artifactId = 'toolbar'                          //项目名称
-    publishVersion = '2.0.1'                                //版本号
+    publishVersion = '1.0.0'                                //版本号
     desc = 'toolbar for android'
     website = 'https://github.com/liuJian1988/'
 }
